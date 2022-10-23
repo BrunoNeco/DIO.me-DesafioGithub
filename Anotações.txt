@@ -1,0 +1,7 @@
+		#Comandos estudados durante a aula sobre o Git/Github:
+
+Git clone: 	Clona um repositório
+Cd: 		Exibir o "diretório de trabalho atual"
+Git status:	Obter o status completo do repositório (como se encontra/atual estado)
+Dir:		Listar o conteúdo do diretório de trabalho atual
+Git add:	Adiciona uma alteração no diretório ativo à área de atuação
